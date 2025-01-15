@@ -7,7 +7,6 @@ import { AuthContext } from "../context/AuthContext";
 import {
   createFile,
   listFiles,
-  uploadFile,
   downloadFile,
   deleteFile,
 } from "../services/googleApi";
@@ -87,10 +86,10 @@ const MainPage: React.FC = () => {
               Create File
             </button>
             <DriveUploady
-			  clientId="<my-client-id>"
+			        clientId="<my-client-id>"
               scope="https://www.googleapis.com/auth/drive.file"
             >
-              <UploadButton onClick={() => window.location.reload()} >Upload to Drive</UploadButton>
+              <UploadButton >Upload to Drive</UploadButton>
             </DriveUploady>
             <button
               type="button"
