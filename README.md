@@ -1,7 +1,7 @@
 # Google Drive API Integration using React + TypeScript
 
 This project is a React application built with Vite and TypeScript, integrating with the Google Drive API to read and write files.
-[![Watch the video](https://via.placeholder.com/500x300.png?text=Click+to+Watch+Video)](https://www.loom.com/share/8917324ab75b4e53af889f4b4d7492d3)
+[![Watch the video](https://your-thumbnail-url.com)](https://www.loom.com/share/8917324ab75b4e53af889f4b4d7492d3)
 ## Table of Contents
 
 - [Google Drive API Integration using React + TypeScript](#google-drive-api-integration-using-react--typescript)
